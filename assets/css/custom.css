@@ -1,0 +1,12 @@
+#mc-embedded-subscribe-form {
+	width: 100%;
+}
+
+#mc-embedded-subscribe-form label {
+	color: #fff;
+}
+
+#mc-embedded-subscribe-form .email,
+#mc-embedded-subscribe-form .button {
+	display: inline-block;
+}
